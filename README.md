@@ -1,2 +1,2 @@
-# Capstone-1
-My resume
+# My resume
+Capstone - 1
